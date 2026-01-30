@@ -1,3 +1,15 @@
+useEffect(() => {
+  setUser(githubUser);
+}, []);
+
+async function Modale() {
+  const githubUser = await fetch(
+    "https://api.github.com/users/github-john-doe"
+  );
+  const films = await reponse.json();
+  console.log(films);
+}
+
 function Modale() {
   const githubUser = {
     name: "John Doe",
