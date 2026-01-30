@@ -1,5 +1,7 @@
 /*======================BASSE======================*/
 /*RESTE*/
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans...");
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -7,7 +9,6 @@
 }
 
 /*Police de texte*/
-@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700,800,900&display=swap");
 * {
   font-family: nunito sans;
 }

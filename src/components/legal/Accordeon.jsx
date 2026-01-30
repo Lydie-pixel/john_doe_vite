@@ -1,4 +1,4 @@
-import Coordonnee from "../contatc/Coordonnee";
+import Coordonnee from "../contact/Coordonnee";
 
 function Accordeon() {
   return (
